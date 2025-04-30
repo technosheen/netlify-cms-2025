@@ -53,9 +53,9 @@ sections:
   - type: HeroSection
     title: 'Your brand or website, delivered at lightspeed.'
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Fusing cutting-edge innovation with inclusive design principles, delivered
+      with excellence, to build transformative digital platforms for LGBTQ+
+      businesses and allies.
     actions:
       - type: Button
         label: Hire me
