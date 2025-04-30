@@ -18,7 +18,7 @@ sections:
       businesses and allies.
     actions:
       - type: Button
-        label: Hire me
+        label: Hire us
         altText: ''
         url: /
         showIcon: true
