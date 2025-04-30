@@ -454,4 +454,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/project-digitalasset.svg
 ---
