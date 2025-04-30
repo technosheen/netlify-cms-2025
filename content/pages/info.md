@@ -64,10 +64,6 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/pngfind.com-white-box-png-239040.png
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
         url: /images/logo2.svg
         altText: Logo two
         caption: Logo two
