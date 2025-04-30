@@ -13,8 +13,12 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |+
-      ##
+    text: >+
+
+
+      #### Fusing cutting-edge innovation with inclusive design principles,
+      delivered with excellence, to build transformative digital platforms for
+      LGBTQ+ businesses and allies.
 
     media:
       type: ImageBlock
