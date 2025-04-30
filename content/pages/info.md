@@ -10,34 +10,43 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    text: >+
-      #### I am a developer born and raised in the northeast, spending my early
-      adulthood between Boston and NYC. I specialize in front-end development,
-      UX design, and Adobe Experience Manager. When I'm not at a keyboard I can
-      be found with my frenchie, or on my rollerblades or paddle board.
-
+  - type: HeroSection
+    title: 'Your brand or website, delivered at lightspeed.'
+    subtitle: >-
+      Fusing cutting-edge innovation with inclusive design principles, delivered
+      with excellence, to build transformative digital platforms for LGBTQ+
+      businesses and allies.
+    actions:
+      - type: Button
+        label: Hire us
+        altText: ''
+        url: /contact
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
-      url: /images/author.svg
+      url: /images/Designer (5).png
       altText: Hero image
+      caption: Caption of the image
+      elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
     styles:
       self:
         height: auto
         width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
-          - pt-16
-          - pb-12
+          - pt-36
+          - pb-48
           - pl-4
           - pr-4
+        alignItems: center
         justifyContent: center
+        flexDirection: row-reverse
       title:
         textAlign: left
       subtitle:
@@ -46,7 +55,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    type: HeroSection
   - type: DividerSection
     styles:
       self:
