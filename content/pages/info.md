@@ -48,7 +48,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    title: technosheen
+    title: ''
   - type: DividerSection
     styles:
       self:
