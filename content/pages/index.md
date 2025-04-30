@@ -10,6 +10,51 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
+  - type: HeroSection
+    title: 'Your brand or website, delivered at lightspeed.'
+    subtitle: >-
+      Fusing cutting-edge innovation with inclusive design principles, delivered
+      with excellence, to build transformative digital platforms for LGBTQ+
+      businesses and allies.
+    actions:
+      - type: Button
+        label: Hire us
+        altText: ''
+        url: /contact
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/Designer (5).png
+      altText: Hero image
+      caption: Caption of the image
+      elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
