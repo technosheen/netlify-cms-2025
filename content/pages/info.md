@@ -22,7 +22,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/author.svg
+      url: /images/logan-voss-eFy1oAV2CxQ-unsplash.jpg
       altText: Hero image
     styles:
       self:
