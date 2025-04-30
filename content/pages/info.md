@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## ## I am a developer born and raised in the northeast, spending my early
+      ### I am a developer born and raised in the northeast, spending my early
       adulthood between Boston and NYC. I specialize in front-end development,
       UX design, and Adobe Experience Manager. When I'm not at a keyboard I can
       be found with my frenchie, or on my rollerblades or paddle board.
