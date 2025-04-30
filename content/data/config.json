@@ -1,11 +1,11 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/app-icon.svg",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "technoshen",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -27,23 +27,24 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.linkedin.com/company/thisisoutmost",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
             "self": {
                 "width": "full"
             }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/app-icon.svg",
+            "altText": "altText of the image",
+            "caption": "Caption of the image",
+            "elementId": ""
         }
     },
     "footer": {
@@ -88,8 +89,14 @@
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
-    }
+    },
+    "titleSuffix": "technosheen"
 }
