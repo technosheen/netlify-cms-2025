@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: ''
+title: Digital Experience Design
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
