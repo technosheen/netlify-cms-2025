@@ -48,7 +48,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    title: 'Your brand or website, delivered at lightspeed.'
+    title: ''
     subtitle: ''
   - type: DividerSection
     styles:
