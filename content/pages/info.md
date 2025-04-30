@@ -20,7 +20,7 @@ sections:
       - type: Button
         label: Hire us
         altText: ''
-        url: /
+        url: /contact
         showIcon: true
         icon: arrowRight
         iconPosition: right
