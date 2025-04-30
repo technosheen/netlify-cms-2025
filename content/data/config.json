@@ -24,7 +24,16 @@
                 "url": "/blog"
             }
         ],
-        "socialLinks": [],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.linkedin.com/company/thisisoutmost",
+                "icon": "linkedin",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "full"
