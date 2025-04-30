@@ -14,11 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: |+
-
-
-      ## Your brand or website, delivered at lightspeed.
-
-
+      ##
 
     media:
       type: ImageBlock
