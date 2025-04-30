@@ -1,11 +1,9 @@
 ---
 type: PostLayout
-title: How to Structure and Organize a Next.js Project 🗂️
+title: Digital Experience Design
 colors: colors-a
-date: '2024-06-03'
-author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+date: ''
+excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
@@ -45,7 +43,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
