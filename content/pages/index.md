@@ -135,7 +135,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    title: Services
+    title: ''
   - type: DividerSection
     title: Divider
     elementId: ''
