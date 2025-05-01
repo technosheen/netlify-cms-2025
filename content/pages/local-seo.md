@@ -14,7 +14,7 @@ sections:
       meta descriptions, and a fully optimized Google Business Profile.
     actions:
       - type: Button
-        label: Learn more
+        label: I want this addon
         altText: ''
         url: /contact
         showIcon: false
