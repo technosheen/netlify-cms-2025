@@ -187,7 +187,7 @@ sections:
           width: full
           isRequired: false
       submitLabel: "Submit \U0001F680"
-      elementId: contact
+      elementId: contact-form
       styles:
         submitLabel:
           textAlign: center
