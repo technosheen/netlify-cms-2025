@@ -135,51 +135,64 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - type: ContactSection
-    colors: colors-f
-    backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Let’s talk... \U0001F4AC"
     form:
       type: FormBlock
-      elementId: feedback
       fields:
-        - name: firstName
+        - type: TextFormControl
+          name: firstName
           label: First Name
           hideLabel: true
           placeholder: First Name
-          isRequired: true
           width: 1/2
-          type: TextFormControl
-        - name: lastName
+          isRequired: true
+        - type: TextFormControl
+          name: lastName
           label: Last Name
           hideLabel: true
           placeholder: Last Name
-          isRequired: false
           width: 1/2
-          type: TextFormControl
-        - name: email
+          isRequired: false
+        - type: EmailFormControl
+          name: email
           label: Email
           hideLabel: true
           placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
           width: full
-          type: CheckboxFormControl
+          isRequired: true
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: true
+          placeholder: Tell me about your project
+          width: full
+          isRequired: true
+        - type: CheckboxFormControl
+          name: updatesConsent
+          label: Sign me up to recieve my words
+          width: full
+          isRequired: false
       submitLabel: "Submit \U0001F680"
+      elementId: contact
       styles:
         submitLabel:
           textAlign: center
+    colors: colors-f
+    backgroundSize: full
     styles:
       self:
         height: auto
@@ -187,11 +200,11 @@ sections:
         margin:
           - mt-0
           - mb-0
-          - ml-0
-          - mr-0
+          - ml-4
+          - mr-4
         padding:
-          - pt-24
-          - pb-24
+          - pt-12
+          - pb-12
           - pr-4
           - pl-4
         alignItems: center
