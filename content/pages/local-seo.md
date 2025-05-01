@@ -4,7 +4,7 @@ title: Local SEO
 sections:
   - type: HeroSection
     title: Local SEO Setup
-    subtitle: Get the essentials righ to rank higher in local search results
+    subtitle: Get the essentials right to rank higher in local search results
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
