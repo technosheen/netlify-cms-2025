@@ -77,7 +77,7 @@
             {
                 "type": "Link",
                 "label": "LinkedIn",
-                "altText": "",
+                "altText": "Linkedin",
                 "url": "https://www.linkedin.com/in/technosheen",
                 "showIcon": false,
                 "icon": "arrowRight",
