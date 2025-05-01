@@ -6,6 +6,9 @@ sections:
     title: Local SEO Setup
     subtitle: Get the essentials right to rank higher in local search results
     text: >
+      <div style="text-align: center">## **$250/setup**</div>
+
+
       Rank at the top when clients search for you with expert setup of Google
       Analytics and Search console, on-page SEO with optimized title tags and
       meta descriptions, and a fully optimized Google Business Profile.
