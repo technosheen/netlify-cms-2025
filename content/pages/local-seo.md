@@ -6,7 +6,7 @@ sections:
     title: Local SEO Setup
     subtitle: Get the essentials right to rank higher in local search results
     text: >
-      <div style="text-align: left">## **$250/setup**</div>
+      ## **$250/setup**</div>
 
 
       Rank at the top when clients search for you with expert setup of Google
