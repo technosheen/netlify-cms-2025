@@ -15,7 +15,7 @@ sections:
     actions:
       - type: Button
         label: I want this addon
-        altText: ''
+        altText: Local SEO add on
         url: /contact
         showIcon: false
         icon: arrowRight
