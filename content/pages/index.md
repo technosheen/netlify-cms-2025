@@ -135,4 +135,70 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+  - type: ContactSection
+    title: "Let’s talk... \U0001F4AC"
+    form:
+      type: FormBlock
+      fields:
+        - type: TextFormControl
+          name: firstName
+          label: First Name
+          hideLabel: true
+          placeholder: First Name
+          width: 1/2
+          isRequired: true
+        - type: TextFormControl
+          name: lastName
+          label: Last Name
+          hideLabel: true
+          placeholder: Last Name
+          width: 1/2
+          isRequired: false
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: true
+          placeholder: Email
+          width: full
+          isRequired: true
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: true
+          placeholder: Tell me about your project
+          width: full
+          isRequired: true
+        - type: CheckboxFormControl
+          name: updatesConsent
+          label: Sign me up to recieve my words
+          width: full
+          isRequired: false
+      submitLabel: "Submit \U0001F680"
+      elementId: contact
+      styles:
+        submitLabel:
+          textAlign: center
+    colors: colors-f
+    backgroundSize: full
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-4
+          - mr-4
+        padding:
+          - pt-12
+          - pb-12
+          - pr-4
+          - pl-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      text:
+        textAlign: left
 ---
