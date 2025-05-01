@@ -5,11 +5,10 @@ sections:
   - type: HeroSection
     title: Local SEO Setup
     subtitle: Get the essentials right to rank higher in local search results
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Rank at the top when clients search for you with expert setup of Google
+      Analytics and Search console, on-page SEO with optimized title tags and
+      meta descriptions, and a fully optimized Google Business Profile.
     actions: []
     colors: colors-f
     backgroundSize: full
