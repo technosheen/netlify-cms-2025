@@ -12,7 +12,16 @@ sections:
       Rank at the top when clients search for you with expert setup of Google
       Analytics and Search console, on-page SEO with optimized title tags and
       meta descriptions, and a fully optimized Google Business Profile.
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /contact
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
