@@ -73,6 +73,16 @@
                 "label": "GitHub",
                 "url": "https://github.com/technosheen",
                 "altText": "Github"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/technosheen",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "contacts": {
